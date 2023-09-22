@@ -9,8 +9,8 @@ I am a Unity Developer with C# scripting, currently working on Android Developme
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sarthakverma.relic@gmail.com](mailto:sarthakverma.relic@gmail.com)
 * 🧠  I'm learning C#, Unity3D, Blender, .NET Framework, Android Development
-* 🤝  I'm open to collaborating on Unity projects and android applications
-* ⚡  Also I am a gamer...
+* 🤝  I'm open to collaborating on Unity projects and Android applications
+* ⚡  Also I am a passionate gamer...
 
 ### Skills
 
